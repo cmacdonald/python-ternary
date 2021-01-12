@@ -6,7 +6,7 @@
 [![Join the chat at https://gitter.im/marcharper/python-ternary](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marcharper/python-ternary?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is a plotting library for use with [matplotlib](http://matplotlib.org/index.html) to make [ternary plots](http://en.wikipedia.org/wiki/Ternary_plot)
-plots in the two dimensional simplex projected onto a two dimensional plane.
+plots in the two dimensional simplex projected onto a two dimensional plane. Ternary plots have three axes; each point three-dimensional point must sum to a constant.
 
 The library provides functions for plotting projected lines, curves (trajectories), scatter plots, and heatmaps. There are [several examples](examples/) and a short tutorial below.
 
